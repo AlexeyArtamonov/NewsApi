@@ -1,0 +1,12 @@
+.vscode
+
+*.out
+*.test
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*app.env
